@@ -1,0 +1,27 @@
+{
+  "name": "httpcode",
+  "version": "1.0.0",
+  "description": "Explains the meaning of an HTTP status code on the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuzhigang33/httpcode.git"
+  },
+  "keywords": [
+    "http",
+    "status",
+    "code"
+  ],
+  "author": "yzg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuzhigang33/httpcode/issues"
+  },
+  "homepage": "https://github.com/yuzhigang33/httpcode",
+  "dependencies": {
+    "cson": "~3.0.1"
+  }
+}
