@@ -1,3 +1,4 @@
+'use strict'
 path    = require 'path'
 cson    = require 'cson'
 program = require 'commander'
